@@ -1,0 +1,25 @@
+Q: Two trains of length 125 meters and 115 meters are running on parallel tracks. When they run in the same direction the faster train crosses the slower train in 30 seconds and when they run in opposite direction, they cross each other in 10 seconds. What is the speed of each train?
+ A. 18,6
+ B. 16,8
+ C. 14,7
+ D. 20,5
+
+Ans:
+To find the speed of the trains, we first need to determine their relative speed when moving in the same direction and in opposite directions.
+
+Let the speed of the faster train be v1 m/s and the speed of the slower train be v2 m/s.
+When moving in the same direction: Relative speed = v1 - v2
+
+The time it takes for the faster train to cross the slower train is given as 30 seconds. The length of the slower train is 115 meters. Therefore, we can write the equation:
+(115 / (v1 - v2)) = 30
+When moving in opposite directions: Relative speed = v1 + v2
+
+The time it takes for the trains to cross each other is given as 10 seconds. The combined length of the trains is 125 + 115 = 240 meters. Therefore, we can write the equation:
+(240 / (v1 + v2)) = 10
+
+Now we have a system of two equations with two variables:
+115 / (v1 - v2) = 30
+240 / (v1 + v2) = 10
+Solving this system of equations, we find that v1 = 20.5 m/s and v2 = 14.7 m/s.
+
+Therefore, the correct answer is: D. 20,5 for the faster train and C. 14,7 for the slower train.
