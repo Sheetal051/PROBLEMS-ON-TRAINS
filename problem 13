@@ -1,0 +1,30 @@
+Q: A train covers a distance between station A and station B in 45 min. If the speed of the train is reduced by 5 km/hr, then the same distance is covered in 48 min. what is the distance between the stations A and B?
+A. 80
+B. 45
+C. 60
+D. 32
+Ans:
+Let's break this problem down step by step:
+
+The train covers the distance between A and B in 45 minutes at a certain speed.
+The speed is reduced by 5 km/hr, and the same distance is covered in 48 minutes.
+Let's assume the original speed of the train is x km/hr. Then, the reduced speed is x - 5 km/hr.
+
+We can use the formula: Time = Distance / Speed
+
+For the original speed:
+45 minutes = Distance / x Convert 45 minutes to hours: 45/60 = 0.75 hours 0.75 = Distance / x
+
+For the reduced speed:
+48 minutes = Distance / (x - 5) Convert 48 minutes to hours: 48/60 = 0.8 hours 0.8 = Distance / (x - 5)
+
+Now, we can set up an equation using the two expressions:
+0.75x = 0.8(x - 5)
+
+Simplify the equation:
+0.75x = 0.8x - 4 0.05x = 4 x = 80 km/hr (original speed)
+
+Now that we have the original speed, we can find the distance:
+Distance = Speed x Time = 80 km/hr x 0.75 hours = 60 km
+
+The correct answer is C. 60.
