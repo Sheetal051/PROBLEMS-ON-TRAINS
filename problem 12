@@ -1,0 +1,27 @@
+Q: Two stations P and Q are 110 km apart on a straight track. One train starts from P at 7 a.m. and travels towards Q at 20 kmph. Another train starts from Q at 8 a.m. and travels towards P at a speed of 25 kmph. At what time will they meet?
+A. 10:30
+B. 10:00
+C. 8.45
+D. 9:30
+Ans:
+Let's break this problem down step by step:
+
+The distance between the two stations is 110 km.
+The first train travels from P to Q at 20 kmph, starting at 7 a.m.
+The second train travels from Q to P at 25 kmph, starting at 8 a.m.
+Since the second train starts 1 hour after the first train, we need to find out how far the first train has traveled in that 1 hour.
+
+Distance traveled by the first train in 1 hour = Speed x Time = 20 kmph x 1 hour = 20 km
+
+So, the first train has covered 20 km in the first hour. Now, the distance between the two trains is:
+110 km - 20 km = 90 km
+
+Both trains are now traveling towards each other. To find the time at which they will meet, we can use the concept of relative speed.
+
+Relative speed = Speed of first train + Speed of second train = 20 kmph + 25 kmph = 45 kmph
+Time taken for the two trains to meet = Distance / Relative speed = 90 km / 45 kmph = 2 hours
+
+Since the second train started at 8 a.m., we add the 2 hours to find the meeting time:
+Meeting time = 8 a.m. + 2 hours = 10 a.m.
+
+The correct answer is B. 10:00.
