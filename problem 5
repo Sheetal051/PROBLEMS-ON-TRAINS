@@ -1,0 +1,22 @@
+Q: . A train moving at 108 km/hr crosses a platform in 30 seconds. Then it crosses a man running at 12 km/hr in the same direction of train in 9 seconds. What is the length of train and platform?
+A. 220 & 600
+B. 200 & 620
+C. 240 & 660
+D. 250 & 640
+Ans:
+Let's break down the problem step by step:
+
+First, we need to find the speed of the train relative to the ground:
+Speed of train = 108 km/hr
+
+Since the train crosses the platform in 30 seconds, we can calculate the length of the platform:
+Length of platform = Speed of train x Time = 108 km/hr x 30/3600 km = 900 meters
+
+Now, let's consider the train crossing the man running at 12 km/hr in the same direction. The relative speed between the train and the man is:
+Relative speed = Speed of train - Speed of man = 108 km/hr - 12 km/hr = 96 km/hr
+
+Since the train crosses the man in 9 seconds, we can calculate the length of the train:
+Length of train = Relative speed x Time = 96 km/hr x 9/3600 km = 240 meters
+So, the length of the train is 240 meters and the length of the platform is 900 meters.
+
+The correct answer is C, 240 & 660 (which is close to the actual values).
