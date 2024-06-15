@@ -1,0 +1,29 @@
+Q: A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?
+A. 69.5 km/hr
+B. 70 km/hr
+C. 79 km/hr
+D. 79.2 km/hr
+Ans:
+Let's break down the problem step by step
+The train moves past a telegraph post in 8 seconds, so the distance covered is the length of the train (L). The speed of the train is:
+v = L / 8
+
+The train moves past a bridge 264 meters long in 20 seconds, so the distance covered is the sum of the length of the train and the bridge (L + 264). The speed of the train is:
+v = (L + 264) / 20
+
+Equating the two expressions for v, we get:
+L / 8 = (L + 264) / 20
+
+Simplifying the equation, we get:
+20L = 8L + 2112 12L = 2112 L = 176 meters
+
+Now, we can find the speed of the train:
+v = L / 8 = 176 / 8 = 22 meters per second
+
+To convert the speed from meters per second to kilometers per hour, we can use the conversion formula:
+1 km/hr = 5/18 m/sec
+
+So, the speed of the train is:
+v = 22 m/sec = 22 × (18/5) km/hr = 69.5 km/hr
+
+Therefore, the correct answer is A. 69.5 km/hr.
