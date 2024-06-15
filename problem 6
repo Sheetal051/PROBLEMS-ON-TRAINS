@@ -1,0 +1,38 @@
+Q: Two trains are moving towards each other with speeds 40 km/hr and 45 km/hr from different stations P and Q. When they meet the second train from station Q has covered 20 km more distance than the first train which starts from station P. What is the distance between the two stations?
+A. 300 km
+B. 320 km
+C. 340 km
+D. 360 km
+Ans:
+Let's analyze the situation:
+To find the distance between the two stations, let's denote:
+
+𝑆1=40 km/hr (speed of the first train from station P)
+𝑆2=45 km/hr (speed of the second train from station Q)
+
+Let the time taken for the trains to meet be t hours.
+
+Since the second train from station Q has covered 20 km more than the first train from station P, we can write:
+S2⋅t=S1⋅t+20
+Substituting the values of 𝑆1and S2 :
+45t=40t+20
+
+Solving for t:
+45t−40t=20
+5t=20
+t=4 hours
+
+In 4 hours, the first train covers:
+
+Distance covered by the first train=
+S1⋅t=40⋅4=160 km
+The second train covers:
+Distance covered by the second train=
+S2⋅t=45⋅4=180 km
+
+The total distance between the two stations is the sum of the distances covered by both trains:
+
+Total distance=160 km+180 km=340 km
+
+Therefore, the distance between the two stations is:
+C. 340 km
