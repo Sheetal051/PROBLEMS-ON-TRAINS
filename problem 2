@@ -1,0 +1,22 @@
+Two trains of length 140 meters and 166 meters are moving towards each other on parallel tracks at a speed of 50 km/hr and 60 km/hr respectively. In what time the trains will cross each other from the moment they meet?
+A. 12 seconds
+B. 9 seconds
+C. 11 seconds
+D. A10 seconds
+
+Ans:
+Let's break down the problem step by step:
+
+First, we need to find the relative speed of the two trains. Since they are moving towards each other, we add their speeds:
+Relative speed = 50 km/hr + 60 km/hr = 110 km/hr
+
+Now, let's convert this relative speed into meters per second:
+110 km/hr = (110 * 1000) / 3600 meters/second ≈ 30.56 m/s
+
+Next, we need to find the combined length of the two trains:
+Combined length = 140 meters + 166 meters = 306 meters
+Finally, we can calculate the time it takes for the trains to cross each other by dividing the combined length by the relative speed:
+Time = Distance / Speed = 306 meters / 30.56 m/s ≈ 10 seconds
+
+So, the correct answer is D, 10 seconds.
+
