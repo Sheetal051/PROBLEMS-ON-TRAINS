@@ -1,0 +1,20 @@
+Q:  A train of length 240 meters crosses a pole in 12 seconds. In what time it will cross a platform of length 400 meters?
+A. 35 seconds
+B. 37 seconds
+C. 39 seconds
+D. 33 seconds
+Ans:
+Let's break down the problem step by step:
+
+First, we need to find the speed of the train. Since the train crosses a pole (a point) in 12 seconds, we can calculate the speed as:
+Speed = Distance / Time = 240 meters / 12 seconds = 20 meters/second
+
+Now, let's convert this speed into km/hr:
+20 meters/second = (20 * 3600) / 1000 km/hr ≈ 72 km/hr
+Next, we need to find the time it takes for the train to cross the platform of length 400 meters. The total distance to be covered is the sum of the length of the train and the length of the platform:
+Total distance = 240 meters + 400 meters = 640 meters
+
+Now, we can calculate the time it takes for the train to cross the platform:
+Time = Total distance / Speed = 640 meters / 20 meters/second = 32 seconds
+
+Since the options are not exact, we need to find the closest match. The correct answer is D, 33 seconds.
