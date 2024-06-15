@@ -1,0 +1,25 @@
+Q:A train without stoppage travels with an average speed of 72 km/h and with stop page, it travels with an average speed of 60 km/h. For how many minutes does the train stop on an average per hour?
+A. 6
+B. 8
+C. 10
+D. 12
+
+Ans:
+To find the time wasted per hour for the stoppage, we can use the formula:
+Time wasted per hour = ((S - S1) / S) * 60
+
+where S is the speed without stoppage (72 km/h) and S1 is the speed with stoppage (60 km/h).
+
+Plugging in the values, we get:
+Time wasted per hour = ((72 - 60) / 72) * 60 = (12 / 72) * 60 = 10 minutes
+
+However, we can simplify the calculation:
+Time wasted per hour = (12 / 72) * 60 = (1 / 6) * 60 = 10 minutes
+
+But wait, 1/6 is equal to 0.1666... which is approximately 0.17. So, we can rewrite the equation as:
+Time wasted per hour = 0.17 * 60 = 10.2 minutes
+
+Rounding up to the nearest whole number, we get:
+Time wasted per hour ≈ 12 minutes
+
+So, the correct answer is D. 12 minutes.
