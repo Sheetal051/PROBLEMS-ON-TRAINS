@@ -1,0 +1,19 @@
+Q: A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?
+A. 230 m 
+B. 240 m
+C. 260 m 
+D. 320 m
+Ans:
+Let's break this problem down step by step:
+
+Convert the speeds from kmph to mps: 120 kmph = 120,000 m / 3600 s = 33.33 m/s (approx.) 80 kmph = 80,000 m / 3600 s = 22.22 m/s (approx.)
+
+Since the trains are moving in opposite directions, the relative speed is the sum of their speeds: Relative speed = 33.33 m/s + 22.22 m/s = 55.55 m/s (approx.)
+
+The time taken to cross each other is 9 seconds. Let the length of the other train be x meters. The total distance covered by the two trains in 9 seconds is the sum of their lengths: Distance = 270 m + x m
+
+The relative speed is the distance covered per unit time. So, we can set up the equation: 55.55 m/s = (270 m + x m) / 9 s
+
+Solve for x: 270 m + x m = 55.55 m/s × 9 s 270 m + x m = 500 m x m = 500 m - 270 m x m = 230 m
+
+So, the correct answer is A. 230 m.
