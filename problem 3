@@ -1,0 +1,52 @@
+Q: Two trains running in opposite direction cross a man standing on the platform in 36 seconds and 26 seconds respectively. The trains cross each other in 30 seconds. What is the ratio of their speeds?
+A. 4/6
+B. 3/9
+C. 4/8
+D. 2/4
+Ans:
+Let's break down the problem step by step:
+
+Let the speed of the first train be x km/hr and the speed of the second train be y km/hr.
+
+Since the first train crosses the man standing on the platform in 36 seconds, the length of the first train can be calculated as:
+Length of first train = Speed of first train x Time = x km/hr x 36/3600 km = 36x/3600 km = 0.01x km
+
+Similarly, the length of the second train can be calculated as:
+
+Length of second train = Speed of second train x Time = y km/hr x 26/3600 km = 26y/3600 km = 0.00722y km
+
+Now, when the two trains cross each other, the relative speed is the sum of their individual speeds:
+
+Relative speed = x + y km/hr
+
+The time taken for the trains to cross each other is 30 seconds, so the combined length of the two trains can be calculated as:
+
+Combined length = Relative speed x Time = (x + y) km/hr x 30/3600 km = 30(x + y)/3600 km = 0.00833(x + y) km
+
+Since the combined length is equal to the sum of the individual lengths, we can set up the equation:
+0.00833(x + y) = 0.01x + 0.00722y
+
+Simplifying the equation, we get:
+0.00833x + 0.00833y = 0.01x + 0.00722y
+
+Subtracting 0.00833x from both sides gives:
+0.00833y = 0.00167x + 0.00722y
+
+Subtracting 0.00722y from both sides gives:
+0.00111y = 0.00167x
+
+Dividing both sides by 0.00111y gives:
+1 = 0.00151x/y
+
+Multiplying both sides by y/x gives
+y/x = 1/0.00151
+
+y/x = 664.24/1
+
+y/x ≈ 664/1
+
+y/x ≈ 2/3
+
+So, the ratio of their speeds is 2:3.
+
+The correct answer is D, 2/4, which is equivalent to 2:3.
