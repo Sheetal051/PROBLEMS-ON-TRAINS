@@ -1,0 +1,26 @@
+Q:Two trains of equal length , running in opposite directions , pass a pole in 18 and 12 seconds. The trains will cross each other in 
+A. 14.4 sec 
+B. 15.5 sec
+C. 18.8 sec 
+D. 20.2 sec
+Ans:
+Let's break down the problem step by step.
+
+Let the speed of the first train be x m/s and the speed of the second train be y m/s. Since the trains are of equal length, let the length of each train be L meters.
+
+The first train passes a pole in 18 seconds, so the distance covered is the length of the train (L). The speed of the first train is:
+x = L / 18
+
+The second train passes a pole in 12 seconds, so the distance covered is the length of the train (L). The speed of the second train is:
+y = L / 12
+
+When the trains cross each other, the relative speed is the sum of their individual speeds (x + y). The distance covered is the sum of the lengths of the two trains (2L). The time taken for the trains to cross each other is:
+t = 2L / (x + y)
+
+Substituting the expressions for x and y, we get:
+t = 2L / (L/18 + L/12)
+
+Simplifying the equation, we get:
+t = 14.4 seconds
+
+Therefore, the correct answer is A. 14.4 sec.
