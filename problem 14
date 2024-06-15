@@ -1,0 +1,29 @@
+Q:A train travels the distance between stations P and Q at a speed of 126 km/h, while in the opposite direction it comes back at 90 km/h. Another train travels the same distance at the average speed of the first train. The time taken by the second train to travel 525 km is:
+A. 5 hours
+B. 4 hours
+C. 4 hours 20 min
+D. 5 hours 20 min
+
+Ans:
+First, let's find the average speed of the first train:
+
+Average speed = (Speed from P to Q + Speed from Q to P) / 2
+Average speed = (126 km/h + 90 km/h) / 2 = 158 km/h / 2 = 79 km/h
+
+Now, we know that the second train travels the same distance at the average speed of the first train, which is 79 km/h.
+To find the time taken by the second train to travel 525 km, we can use the formula: Time = Distance / Speed
+
+Time = 525 km / 79 km/h
+
+To make the calculation easier, let's convert 79 km/h to km/min:
+79 km/h = 79 km/60 min ≈ 1.3167 km/min
+
+Now, we can calculate the time:
+Time = 525 km / 1.3167 km/min ≈ 398.5 minutes
+
+Convert minutes to hours:
+398.5 minutes ≈ 6.64 hours
+
+Since we want the answer in hours, we can choose the closest option:
+
+The correct answer is D. 5 hours 20 min (approximately).
