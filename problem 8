@@ -1,0 +1,27 @@
+Q:Two, trains, one from Howrah to Patna and the other from Patna to Howrah, start simultaneously. After they meet, the trains reach their destinations after 9 hours and 16 hours respectively. The ratio of their speeds is:
+A. 2:3
+B. 4:3
+C. 6:7
+D. 9:1
+Ans:
+Let's break this problem down step by step:
+
+Let the speed of the train traveling from Howrah to Patna be v1 and the speed of the train traveling from Patna to Howrah be v2.
+
+The trains meet at a certain point and then travel towards their respective destinations. The sum of the distances covered by both trains is equal to the distance between Howrah and Patna, which we'll call D.
+The time taken by the train traveling from Howrah to Patna is 9 hours, so its speed is:
+v1 = D / 9
+
+The time taken by the train traveling from Patna to Howrah is 16 hours, so its speed is:
+v2 = D / 16
+
+The ratio of their speeds is:
+v1 : v2 = D / 9 : D / 16
+
+Since both speeds are in the same ratio with the distance D, we can simplify the ratio by dividing both sides by D:
+1 / 9 : 1 / 16
+
+To find the ratio of the speeds, we need to find the ratio of the reciprocals of the time taken:
+9 : 16
+
+So, the correct answer is B. 4:3.
