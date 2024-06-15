@@ -5,21 +5,30 @@ Q: Two trains of length 125 meters and 115 meters are running on parallel tracks
  D. 20,5
 
 Ans:
-To find the speed of the trains, we first need to determine their relative speed when moving in the same direction and in opposite directions.
+Let's break this problem down step by step:
 
-Let the speed of the faster train be v1 m/s and the speed of the slower train be v2 m/s.
-When moving in the same direction: Relative speed = v1 - v2
+When the trains run in the same direction, the relative speed between them is the difference between their speeds. Let's call the speed of the faster train "v1" and the speed of the slower train "v2". The relative speed is v1 - v2.
 
-The time it takes for the faster train to cross the slower train is given as 30 seconds. The length of the slower train is 115 meters. Therefore, we can write the equation:
-(115 / (v1 - v2)) = 30
-When moving in opposite directions: Relative speed = v1 + v2
+The faster train crosses the slower train in 30 seconds, which means it covers a distance equal to the sum of their lengths (125 + 115 = 240 meters) in 30 seconds. So, the relative speed is:
+v1 - v2 = Distance / Time = 240 meters / 30 seconds = 8 meters/second
 
-The time it takes for the trains to cross each other is given as 10 seconds. The combined length of the trains is 125 + 115 = 240 meters. Therefore, we can write the equation:
-(240 / (v1 + v2)) = 10
+When the trains run in opposite directions, the relative speed between them is the sum of their speeds. The relative speed is v1 + v2.
 
-Now we have a system of two equations with two variables:
-115 / (v1 - v2) = 30
-240 / (v1 + v2) = 10
-Solving this system of equations, we find that v1 = 20.5 m/s and v2 = 14.7 m/s.
+The trains cross each other in 10 seconds, which means they cover a distance equal to the sum of their lengths (240 meters) in 10 seconds. So, the relative speed is:
+v1 + v2 = Distance / Time = 240 meters / 10 seconds = 24 meters/second
 
-Therefore, the correct answer is: D. 20,5 for the faster train and C. 14,7 for the slower train.
+Now we have two equations:
+v1 - v2 = 8 meters/second ... (1) v1 + v2 = 24 meters/second ... (2)
+
+Add equation (1) and equation (2) to eliminate v2:
+2v1 = 32 meters/second v1 = 16 meters/second
+
+Now, substitute v1 into equation (1) to find v2:
+16 - v2 = 8 v2 = 8 meters/second
+
+Convert the speeds from meters/second to km/h:
+v1 = 16 meters/second = 16 × (3600 / 1000) = 57.6 km/h ≈ 58 km/h v2 = 8 meters/second = 8 × (3600 / 1000) = 28.8 km/h ≈ 29 km/h
+
+So, the speeds of the two trains are approximately 58 km/h and 29 km/h.
+
+The closest answer choice is B. 16,8.
